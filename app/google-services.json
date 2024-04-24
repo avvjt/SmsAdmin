@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "843265721577",
+    "project_id": "re-smstesting",
+    "storage_bucket": "re-smstesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843265721577:android:9e554fa661edb092471c78",
+        "android_client_info": {
+          "package_name": "com.abhi.smsadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVuf507hhdAeD8buDYMSLUrwIr8UODXOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843265721577:android:270f8033a45fb7e8471c78",
+        "android_client_info": {
+          "package_name": "com.abhi.smstesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVuf507hhdAeD8buDYMSLUrwIr8UODXOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
